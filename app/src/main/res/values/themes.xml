@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Corvis" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">#B026FF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#39FF14</item>
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
